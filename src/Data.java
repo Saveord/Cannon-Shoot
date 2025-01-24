@@ -1,4 +1,4 @@
-public class Main {
+public class Data {
     public static void main(String[] args) {
 
         Cannon c = new Cannon();
